@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1736275603782,
+      "tag": "0000_known_terrax",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1736281218993,
+      "tag": "0001_ordinary_kat_farrell",
+      "breakpoints": true
+    }
+  ]
+}
